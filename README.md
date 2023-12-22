@@ -1,3 +1,5 @@
+This Project utilizes AWS IoT Device SDK v2 for Python to connect and communicate MQTT messages between the server and AWS IoT Core. Downstream wrapping can be performed in AWS Console.
+
 This document provides information about the AWS IoT Device SDK v2 for Python. This SDK is built on the [AWS Common Runtime](https://docs.aws.amazon.com/sdkref/latest/guide/common-runtime.html)
 
 ## Installation
